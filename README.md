@@ -23,4 +23,22 @@ Seguranca =
 Governanca = 
 
 Gerenciabilidade = 
-![image](https://github.com/user-attachments/assets/b3172d19-15bd-4b9a-af43-b7cf52b76f61)
+
+Sobre modelos de NUvem 
+Conceitos de nuvem >  IAAS - PaaS e SaaS
+
+IAAS =>  Infraestrutura como Servico 
+Servidores, armazenameto … 
+Alugando servidores, maquinas virtuais, armazenamento, redes e sistema operacionais de um provedor de nuvem  == A empresa é responsavel por tudo
+
+PaaS => Plataforma como servico 
+Uso de uma plataforma que é provida pela nuvem, ex SQL server, Oracle, Mongo … vc nao se preocupa onde e como ele vai ser implementado, é oferecido para vc ja o servico pronto instalado e configurado so a plataforma disponivel (aplicacao), todo e qlq responsabilidade de infraestutura é de responsabilidade do provedor.
+
+
+SaaS=> Software como servico = caso de uso = 
+Exemplo uso de um software oferecido por um provedor de cloud, exemplo microsoft 365, microsoft teams … uso de um aplicativo 100% mantido pelo provedor no caso do teams é so se conectar e comecar a conversar com seus contatos adicionados - empresa so se preocupa em usar o produto é baseado em modelo de licenciamento --- usuarios pagam pelo software que utilizam em modelo de assinatura exemplo xbox cloud
+
+
+
+
+
